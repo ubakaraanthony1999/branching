@@ -1,3 +1,0 @@
-This is sample Json Testing file
-
-This file is refering version 1.2
